@@ -24,7 +24,7 @@
 
 
 ## Funcionalidades da aplicação
-  - Aplicação registra os pedidos de um cliente que são consumidos de uma API
+  - Aplicação registra os pedidos de um cliente que são consumidos de uma API.
 
 ## Instalação
 
