@@ -18,8 +18,10 @@
 
 ## 💻 Linguagens e tecnologias utilizadas
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" max-width="100%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="60" max-width="100%">
 <img src="https://miro.medium.com/v2/resize:fit:652/1*N0XV3gco7Ed4brMoxwdjVg.png" alt="styled-components" width="80" height="70" max-width="100%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oGEXGSkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iu70z7h4vp482ptvsw3d.png" alt="axios" width="130" height="70" max-width="100%">
+
 
 ## Funcionalidades da aplicação
   - Aplicação registra os pedidos de um cliente que são consumidos de uma API
